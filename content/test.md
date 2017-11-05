@@ -1,12 +1,8 @@
-About this site TEST TEST TEST TEST TEST 
+Presentation av mig
 ==============================================
 
-The primary focus of this site is to:
+Mitt namn är Jerker Åberg och jag läser programmet webprogrammering på BTH.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Jag bor i en lägenhet i Eskilstuna. Ursprungligen kommer jag från en liten by i Dalarna. Har även bott i Luleå och Göteborg några år.
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
-
-sksldslkdjs
+<img src="img/me_riley.jpg" alt="alt text" width=500>

@@ -1,12 +1,13 @@
 About this site
 ==============================================
 
-The primary focus of this site is to:
+Hello,
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+This site is to be used for the webprogramming program at BTH. Specifically for the course TEKNISK WEBBDESIGN OCH ANVÄNDBARHET.
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
 
-sksldslkdjs
+The source for this site is available on GitHub in [canax/anax-flat](https://github.com/erab17/Anax-Flat).
+
+
+<img src="img/test.jpg" alt="alt text" width=500>
