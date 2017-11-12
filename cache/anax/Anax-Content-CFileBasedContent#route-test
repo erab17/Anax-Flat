@@ -5,18 +5,18 @@ O:8:"stdClass":7:{s:4:"file";s:7:"test.md";s:7:"section";s:0:"";s:5:"level";i:0;
 
 
 </div>
-";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:13:"img/machu.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:384:"<h1>Presentation av mig</h1>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:13:"img/machu.jpg";}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:423:"<h1>Presentation av mig</h1>
 
 <p>Mitt namn är Jerker Åberg och jag läser programmet webprogrammering på BTH.</p>
 
 <p>Jag bor i en lägenhet i Eskilstuna. Ursprungligen kommer jag från en liten by i Dalarna. Har även bott i Luleå och Göteborg några år.</p>
 
-<p><img src="http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/img/me_riley.jpg" alt="alt text" width=500></p>
-";s:7:"excerpt";s:384:"<h1>Presentation av mig</h1>
+<p><img src="http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/img/me_riley.jpg" alt="alt text" style="width:250px; display:block; margin:auto";></p>
+";s:7:"excerpt";s:423:"<h1>Presentation av mig</h1>
 
 <p>Mitt namn är Jerker Åberg och jag läser programmet webprogrammering på BTH.</p>
 
 <p>Jag bor i en lägenhet i Eskilstuna. Ursprungligen kommer jag från en liten by i Dalarna. Har även bott i Luleå och Göteborg några år.</p>
 
-<p><img src="http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/img/me_riley.jpg" alt="alt text" width=500></p>
+<p><img src="http://localhost:8080/dbwebb/design/me/anax-flat/htdocs/img/me_riley.jpg" alt="alt text" style="width:250px; display:block; margin:auto";></p>
 ";}}}s:11:"frontmatter";a:1:{s:5:"title";s:19:"Presentation av mig";}}
